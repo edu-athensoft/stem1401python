@@ -12,3 +12,8 @@ print("x is", x)
 print("y is", y)
 print("a:", a)
 print("b:", b)
+
+a = 4+True
+# b = False + '10'  #error
+print("a:", a)
+print("b:", b)
