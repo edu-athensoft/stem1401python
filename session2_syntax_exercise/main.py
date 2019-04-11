@@ -1,7 +1,7 @@
 
 # from . import myconstant
 
-import session2_syntax_exercise.myconstant as myconstant
+import miniproject.sphere.myconstant as myconstant
 
 print(myconstant.PI)
 

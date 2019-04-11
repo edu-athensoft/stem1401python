@@ -1,5 +1,5 @@
 
-import session2_syntax_exercise.myconstant as myconstant
+import miniproject.sphere.myconstant as myconstant
 
 # S = 4 * PI * radius ^2
 

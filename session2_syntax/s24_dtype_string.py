@@ -10,6 +10,8 @@ print("s[4] = ", s[4])
 
 # s[6:11] = 'world'
 print("s[6:11] = ", s[6:11])
+print("s[6:] = ", s[6:])
+
 
 # Generates error
 # Strings are immutable in Python
